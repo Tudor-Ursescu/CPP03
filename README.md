@@ -1,4 +1,4 @@
-# C++ Module 03 - Inheritance
+# C++ Module 03 - Inheritance & Derived Classes
 
 ## 🔍 Overview
 This module introduces inheritance in C++ by implementing a hierarchy of ClapTrap-based classes. Each exercise builds upon the previous one, enhancing the functionality and complexity of the robots.
